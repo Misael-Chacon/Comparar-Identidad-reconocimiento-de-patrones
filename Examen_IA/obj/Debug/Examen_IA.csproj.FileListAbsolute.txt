@@ -1,0 +1,32 @@
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe.config
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.pdb
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csprojResolveAssemblyReference.cache
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Guardar_Identidad.resources
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Properties.Resources.resources
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csproj.GenerateResource.Cache
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.exe
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.pdb
+E:\UNAH\INTELIGENCIA ARTIFICIAL\PROYECTO IDENTIDADES\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Principal.resources
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe.config
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.exe
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.pdb
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csprojResolveAssemblyReference.cache
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Guardar_Identidad.resources
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Principal.resources
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Properties.Resources.resources
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csproj.GenerateResource.Cache
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\bin\Debug\Examen_IA.pdb
+C:\Users\Shadiness\Desktop\Inteligencia Artificial\Proyecto Reconocimiento de Identidades\C#\Examen_IA\Examen_IA\obj\Debug\Examen_IA.FormDatos_Neuronas.resources
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe.config
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.exe
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.pdb
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\bin\Debug\Examen_IA.exe
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\bin\Debug\Examen_IA.pdb
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csprojResolveAssemblyReference.cache
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.FormDatos_Neuronas.resources
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Guardar_Identidad.resources
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Principal.resources
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.Properties.Resources.resources
+C:\Users\acer\Downloads\Examen_IA2\Examen_IA\Examen_IA\obj\Debug\Examen_IA.csproj.GenerateResource.Cache
